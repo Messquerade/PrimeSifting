@@ -13,10 +13,21 @@ namespace PrimeSifting.Models
       {
         primes.Add(i);
       }
+      
+      for (int j = 2; j <= input; j++)
+      {
+        for(int k = j + 1; k <= input; k++)
+        {
+          if (k % j == 0 )
+          {
+            primes.Remove(k);
+          }
+        }
+      }
       return primes;
     }
-
   }
-
-
 }
+
+
+// for each item in list, check if that item is divisible by prime
