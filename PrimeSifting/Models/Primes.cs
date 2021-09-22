@@ -28,6 +28,3 @@ namespace PrimeSifting.Models
     }
   }
 }
-
-
-// for each item in list, check if that item is divisible by prime
