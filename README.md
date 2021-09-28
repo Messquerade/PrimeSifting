@@ -43,5 +43,5 @@ Copyright (c) 2021 Paige Tiedeman, Becket Harvey, Connor Hansen, and Anna Clarke
 
 ## Contact Information
 
-_Paige Tiedeman @ github.com/paigetiedeman_
+_Paige Tiedeman @ github.com/paigetiedeman_  
 _Anna Clarke anclarkie@gmail.com_
