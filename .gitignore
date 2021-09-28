@@ -1,4 +1,3 @@
-/PrimeSifting.Tests/obj
-/PrimeSifting.Tests/bin
-/PrimeSifting/obj
-/PrimeSifting/bin
+*/obj/
+*/bin/
+.vscode

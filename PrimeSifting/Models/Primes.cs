@@ -6,6 +6,7 @@ namespace PrimeSifting.Models
   
   public class Primes
   {
+
     public static List<int> FindPrimes(int input)
     {
       List<int> primes = new List<int> {};
